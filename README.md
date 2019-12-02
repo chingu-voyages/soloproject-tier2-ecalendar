@@ -12,7 +12,7 @@ As you add skills to your developer toolbag you'll be able to come back to this 
 
 ## Instructions
 
-General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the #read-me-first channel on Discord).
+General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the `#read-me-first` channel on Discord).
 
 #### Requirements
 
@@ -25,7 +25,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
   - [ ] Title and Current year in header  
   - [ ] Current month between previous and upcoming month 
   - [ ] Calendar dates of the month with display of previous month’s last dates if first day of current month does not start on a Sunday 
-  - [ ] Arrows bordering the calendar dates  
+  - [ ] Arrows bordering the body of the calendar 
 
 - [ ] Event portion to have
 
@@ -56,10 +56,10 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 
 
 *Modal Form:*
-
+- [ ] This form is used to add new events to to the calendar. It is displayed when the user clicks the add icon in appointment panel
 - [ ] Be able to close form without submission and have form close on submission of event information
 - [ ] Have modal displayed as shown in images below
-- [ ] Have at least the event name and dates as required
+- [ ] Have at least the event name and dates as required, the other fields shown are optional
 - [ ] Is hidden when not in use
 
 
