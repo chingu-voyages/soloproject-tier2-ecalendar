@@ -1,4 +1,4 @@
-# Chingu Voyage Pre-Work Solo Project (Tier 2): *eCalendar*
+# Chingu Solo Project - Tier 2 - eCalendar
 
 ![demo of tier 1 site](./assets/tier2.gif) 
 
